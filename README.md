@@ -1,4 +1,4 @@
-Best Track  
+# Best Track  
 ---
 a command line tool to read RSMC Best track data  
  
@@ -14,9 +14,9 @@ Usage
 ---
 `USAGE:  ./best_track.py  [ VAR | GRADE | HEADER | DATA ]  [ TCID | YY | ALL ] [sep]`  
   
-# Parameter Description  
-argv1: Command
----  
+#Parameter Description  
+argv1: Command  
+---
 -VAR              : list variables in data  
 -GRADE              : list grade (2-9)   
 -HEADER              : list header informaion  
